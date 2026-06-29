@@ -14,3 +14,5 @@ http://localhost:8889/actuator/refresh
 
 
 impact app congi-repo congi-client  congi-server
+
+https://docs.spring.io/spring-cloud-config/docs/current/reference/html/#_quick_start
